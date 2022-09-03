@@ -1,7 +1,5 @@
 DB Games Readme
 
-by Daniel Rose and Bikash Khatiwoda
-
 --------------------------------------------------------------------------
 
 First Install XAMPP and download the files
